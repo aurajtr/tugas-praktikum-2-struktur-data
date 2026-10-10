@@ -16,6 +16,6 @@ Kelas: **AYC2 - LAB**
 
 ## Implementasi Tugas
 
-A. Sistem Manajemen Antrean (Queue)
-B. Fitur Undo/Redo dalam Editor Teks (Stack)
-C. Manajemen Data Mahasiswa dengan Linked List
+1. Sistem Manajemen Antrean (Queue)
+2. Fitur Undo/Redo dalam Editor Teks (Stack)
+3. Manajemen Data Mahasiswa dengan Linked List
