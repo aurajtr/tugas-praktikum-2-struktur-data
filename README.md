@@ -20,3 +20,4 @@ Kelas: **AYC2 - LAB**
 1. Sistem Manajemen Antrean (Queue)
 2. Fitur Undo/Redo dalam Editor Teks (Stack)
 3. Manajemen Data Mahasiswa dengan Linked List
+4. membandingkan waktu eksekusi Queue, Stack, dan Linked List.
